@@ -2,6 +2,7 @@ package TiposVariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args) {
+        //char utiliza aspas simples na declaração
         double salarioMinimo = 2500.33;
         //se um valor começar com zero talvez tenha que ser uma string
         //tipo float tem que ser colocado F no final, pode ser maiusculo ou minusculo
