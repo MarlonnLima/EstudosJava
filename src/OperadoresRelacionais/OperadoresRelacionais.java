@@ -23,6 +23,7 @@ public class OperadoresRelacionais {
         String s2 = "Fulano";
         boolean b1 = true;
         boolean b2 = false;
+
         System.out.println("Tabela de resultados dos da relações dos tipos");
         System.out.println("int");
         System.out.println("i1 == i2; " + (i1 == i2));
